@@ -1,0 +1,1 @@
+To use the unreal files: Drop the CloudScapeTutorial folder straight into your content folder of an unreal engine 4.14 project.
